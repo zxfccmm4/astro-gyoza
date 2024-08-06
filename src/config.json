@@ -1,39 +1,39 @@
 {
   "site": {
-    "url": "https://gyoza.lxchapu.com",
-    "title": "Gyoza",
-    "description": "这是一个使用 Astro 和 React 开发的博客主题。",
-    "keywords": "Gyoza,blog,Astro,theme,lxchapu,博客主题",
+    "url": "https://surgee.tech",
+    "title": "Steve Studio",
+    "description": "这里是 Steve Studio ",
+    "keywords": "狂热果粉、IT 民工、半吊子英语、奶爸",
     "lang": "zh-CN",
     "favicon": "/favicon.ico",
     "appleTouchIcon": "/apple-touch-icon.png"
   },
   "author": {
-    "name": "lxchapu",
-    "twitterId": "@lxchapu",
+    "name": "Steve",
+    "twitterId": "@st7evechou",
     "avatar": "https://s2.loli.net/2024/04/30/ozsnuS5Ihf3xMBG.webp"
   },
   "hero": {
-    "name": "Gyoza",
-    "bio": "A static blog template build with Astro and React.",
-    "description": "Clean, Cute, Fast.",
+    "name": "Steve",
+    "bio": "不要让一时的迷茫遮盖你眼中的光芒。",
+    "description": "",
     "socials": [
       {
         "name": "Github",
         "icon": "icon-github",
-        "url": "https://github.com/lxchapu/astro-gyoza",
+        "url": "https://github.com/zxfccmm4",
         "color": "rgb(24, 23, 23)"
       },
       {
         "name": "X",
         "icon": "icon-x",
-        "url": "https://twitter.com/lxchapu",
+        "url": "https://twitter.com/st7evechou",
         "color": "rgb(36, 46, 54)"
       },
       {
         "name": "Email",
         "icon": "icon-mail",
-        "url": "mailto:lxchapu@outlook.com",
+        "url": "mailto:zxfccmm@gmail.com",
         "color": "rgb(212, 70, 56)"
       }
     ],
